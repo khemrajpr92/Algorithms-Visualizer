@@ -35,7 +35,7 @@ This is a project built for beginners to learn how different algorithms work in 
 
 ## 3. Clone the repository
 
-`git clone https://github.com/krishna6431/Algo-Viz.git
+`git clone (https://github.com/khemrajpr92/Algorithms-Visualizer)
 
 ## 4. Install The Required Packages
 
