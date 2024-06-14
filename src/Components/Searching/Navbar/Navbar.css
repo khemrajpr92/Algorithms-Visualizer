@@ -1,0 +1,30 @@
+#demo-simple-select-label {
+	color: #fff;
+}
+
+label {
+	color: #fff;
+}
+
+.navbar-brand-control{
+	position:absolute;
+	right: 5%;
+
+
+}
+
+.simple-select{
+	position:absolute;
+	left:43%;
+	background:transparent;
+}
+
+#demo-simple-select-label{
+    display:flex;
+	color:white;
+	font-size:22px;
+	font-family: consolas;
+	position:absolute;
+	top:-15%
+}
+

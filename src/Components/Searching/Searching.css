@@ -1,0 +1,47 @@
+.numbers-container {
+	display: flex;
+    flex-flow: row wrap;
+	justify-content: center;
+	align-items: center;
+	width: 93%;
+}
+
+.number-capsule {
+	margin: 10px;
+	border-radius: 10px;
+}
+
+input.number {
+	background-color: transparent;
+	border: none;
+	text-align: center;
+	width: 50px;
+	height: 50px;
+	color: #efe;
+}
+
+.btn-user{
+	margin-top:8px;
+}
+
+.span-text{
+	margin-top:200px;
+	color:yellow;
+	
+}
+#standard-basic {
+	color: #fff;
+}
+
+#userInput{
+	border-radius: 4px solid grey;
+	margin-top:20px;
+	margin-left:2px;
+	color:black;
+	height: 50px;
+	/* width:400%; */
+}
+
+.userData-container{
+	background:black;
+}
